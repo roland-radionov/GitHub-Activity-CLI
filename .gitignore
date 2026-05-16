@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE (PyCharm)
+.idea/
+*.iml
+
+# Secrets and config
+.env
+secrets.py
+config_local.py
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
